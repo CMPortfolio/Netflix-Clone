@@ -1,5 +1,7 @@
 Netflix Clone 🎬 | React.js
 
+
+
 ![image](https://github.com/user-attachments/assets/ccaeeb72-32f0-4b55-af67-5d5db560de8b)
 
 ![image](https://github.com/user-attachments/assets/2e8a84ce-4200-47a0-9f53-33ab72f22a25)
@@ -12,7 +14,10 @@ A sleek and fully responsive Netflix Clone built with React.js, replicating key 
 
 Features
 
-✅ Modern UI – Designed with React & CSS for a clean and responsive Netflix-like interface.✅ Movie Listings – Fetches movies using external APIs and displays them in categorized rows.✅ Trailer Playback – Integrated with React-YouTube to play official trailers directly in the app.✅ Search Functionality – Easily find movies using Movie-Trailer API.✅ Fully Responsive – Works on mobile, tablet, and desktop screens.
+✅ Modern UI – Designed with React & CSS for a clean and responsive Netflix-like interface.
+✅ Movie Listings – Fetches movies using external APIs and displays them in categorized rows.
+✅ Trailer Playback – Integrated with React-YouTube to play official trailers directly in the app.
+✅ Fully Responsive – Works on mobile, tablet, and desktop screens.
 
 Tech Stack
 

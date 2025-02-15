@@ -1,5 +1,13 @@
 Netflix Clone 🎬 | React.js
 
+![image](https://github.com/user-attachments/assets/ccaeeb72-32f0-4b55-af67-5d5db560de8b)
+
+![image](https://github.com/user-attachments/assets/2e8a84ce-4200-47a0-9f53-33ab72f22a25)
+
+![image](https://github.com/user-attachments/assets/183c0b72-9c4a-496c-88b5-a8efd8851f29)
+
+
+
 A sleek and fully responsive Netflix Clone built with React.js, replicating key Netflix features, including a dynamic movie catalog, trailers, and intuitive UI.
 
 Features
